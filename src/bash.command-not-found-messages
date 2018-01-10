@@ -1,0 +1,7 @@
+CMD_NOT_FOUND_MSGS=(
+        "We all make mistakes"
+        "Don't worry, Try again!"
+        "Experience, the name everyone give to their mistakes - Oscar Wilde"
+        "It's ok to fail sometimes"
+        "You are still more intelligent than a computer :)"
+)
